@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import MobileApp
+@testable import ProjektManhatann
 
 class NetworkTests: XCTestCase {
     
